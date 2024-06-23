@@ -13,7 +13,7 @@
 
 - 📫 Reach me @ **dhivyavikrama1404@gmai.com**
 
-- - 📝 <a target="_blank" rel="noopener noreferrer"  href="https://dhivyalakshmi-portfolio.vercel.app/">Visit my Portfolio</a>
+- 📝 <a target="_blank" rel="noopener noreferrer"  href="https://dhivyalakshmi-portfolio.vercel.app/">Visit my Portfolio</a>
   <br/>
 
 
